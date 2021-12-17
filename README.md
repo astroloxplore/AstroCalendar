@@ -17,11 +17,11 @@ python3 transit_calendar.py -i 'test_transit_calendar_2021.zbs'
 
 Running the script (with additional parameters):
 python3 transit_calendar.py -i 'test_transit_calendar_2021.zbs' -t 31 -e 3 -c 0 -b 1.2 -a 3
-# -t -> time period, one month is recommended (default)
-# -e 3 -> expand transit orb to 3 degrees (default is 1)
-# -c 0 -> transits to all cusps (default - only transits to Asc/MC)
-# -b 1.2 -> expand orb of natal aspects by 20%
-# -a 3 -> use a different set of aspects (default is [0,60,90,120,180])
+-t -> time period, one month is recommended (default)
+-e 3 -> expand transit orb to 3 degrees (default is 1)
+-c 0 -> transits to all cusps (default - only transits to Asc/MC)
+-b 1.2 -> expand orb of natal aspects by 20%
+-a 3 -> use a different set of aspects (default is [0,60,90,120,180])
 
 DEPENDENCIES:
 util.py (provided) from Morinus
