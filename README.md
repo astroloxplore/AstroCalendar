@@ -31,5 +31,5 @@ Running the script (with additional parameters):
 * -e 3 -> expand transit orb to 3 degrees
 * -c 0 -> transits to all cusps
 
-## DEPENDENCIES:
-util.py (provided) from Morinus
+## DEPENDENCIES
+**util.py** (provided) from Morinus
