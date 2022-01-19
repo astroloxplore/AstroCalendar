@@ -38,18 +38,6 @@ python3 transit_calendar_years.py -i 'test.zbs' -t 5 -e 3 -c 0
 # -e 3 -> expand transit orb to 3 degrees
 # -c 0 -> transits to all cusps
 
-'''
-
-'''
-This program (calendar) calculates natal positions and transit of slower
-planets for a given period of time (default for 4 years). This is program is
-mostly for rectification (to look at extended periods of life), and for 
-prognostics (again, to look at extended periods of time).
-
-+ Natal and transit orbs implemented
-+ implemented transits to cusps (selected or all) for rectification
-
-
 LIMITATIONS:
 
 - transits of Node are limited to only 0 and 180 aspects, and transits of
